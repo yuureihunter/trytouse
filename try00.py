@@ -16,3 +16,4 @@ h = [2,2,2,2,2,2,4]
 ax1.plot(g,h,c='b',label='try')
 leg = ax1.legend(loc='upper left')
 plt.show()
+print("end")

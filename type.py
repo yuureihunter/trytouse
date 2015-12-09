@@ -12,4 +12,5 @@ with the printed title An Essay Concerning Human Understanding.")
         print("He describes the mind at birth as a blank slate \
 (tabula rasa, although he did not use those actual words) filled \
 later through experience.")
+    print("test")
 choosetype(int(input()))
